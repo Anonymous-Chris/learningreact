@@ -8,7 +8,7 @@ function App() {
       </header>
 
       <h1>Template</h1>
-      <h2>test</h2>
+  
     </div>
   );
 }
